@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: cloud-course
+  labels:
+    name: cloud-course
+    environment: development 
